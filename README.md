@@ -90,22 +90,4 @@
     python main.py
     ```
 
-## Управление версией
-
-Проект использует **Git** для контроля версий. Вот основные команды:
-
-- **Получить последние изменения**:
-    ```bash
-    git pull https://github.com/FedorKomarovskiy/DE_project
-    ```
-
-- **Коммит изменений**:
-    ```bash
-    git commit -m "Project finished"
-    ```
-
-- **Отправить изменения на GitHub**:
-    ```bash
-    git push
-    ```
 
